@@ -1,0 +1,1 @@
+# ArrayList: In computer science, a dynamic array, growable array, or array list is a random access, variable-size list data structure that allows elements to be added or removed. Dynamic arrays overcome a limit of static arrays, which have a fixed capacity that needs to be specified at allocation.
